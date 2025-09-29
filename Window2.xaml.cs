@@ -72,8 +72,9 @@ namespace SaludAp
             // Si todas las validaciones son correctas
             MessageBox.Show("Registro Exitoso");
 
-            MainWindow mainWindow = new MainWindow();
-            mainWindow.Show();
+            
+            Window3 window3 = new Window3();
+            window3.Show();
             this.Hide();
         }
 
