@@ -1,0 +1,17 @@
+﻿<Window x:Class="SaludAp.ReprogramarWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Reprogramar Cita" Height="200" Width="300"
+        WindowStartupLocation="CenterScreen"
+        Background="#FFE4FFF8">
+    
+    <StackPanel Margin="20">
+        <TextBlock Text="Selecciona la nueva fecha:" Margin="0,0,0,10"/>
+        <DatePicker x:Name="DatePickerNuevaFecha" Margin="0,0,0,10"/>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+            <Button Content="Aceptar" Width="75" Margin="5" Click="Aceptar_Click"/>
+            <Button Content="Cancelar" Width="75" Margin="5" Click="Cancelar_Click"/>
+        </StackPanel>
+    </StackPanel>
+</Window>
+

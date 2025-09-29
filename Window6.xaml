@@ -1,0 +1,135 @@
+﻿<Window x:Class="SaludAp.Window6"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Historial Médico"
+        Height="711" Width="850"
+        Background="#F6FBF8"
+        WindowStartupLocation="CenterScreen">
+
+    <Grid Margin="20">
+        <!-- Contenido principal -->
+        <StackPanel>
+
+            <!-- Botón de regresar -->
+            <Button Content="← "
+                    HorizontalAlignment="Left"
+                    Foreground="Black"
+                    Background="#FFF4F4F4"
+                    FontWeight="Bold"
+                    FontSize="20"
+                    Padding="10,5"
+                    Margin="0,0,0,10"
+                    Width="42"
+                    Click="BtnRegresar_Click" Height="39"/>
+
+            <TextBlock Text="Historial Clínico"
+                       FontSize="20" FontWeight="Bold"
+                       Foreground="#1DB954"
+                       Height="47" Width="273"/>
+            <TextBlock Text="Consulta tu expediente médico completo"
+                       FontSize="14" Foreground="Gray"
+                       Margin="0,0,0,20" Height="35" Width="366"/>
+
+            <!-- Tabs -->
+            <TabControl Background="#F6FBF8" BorderThickness="0">
+                <!-- Consultas -->
+                <TabItem Header="Consultas (3)">
+                    <ScrollViewer VerticalScrollBarVisibility="Auto">
+                        <StackPanel Background="#F6FBF8" Margin="10">
+
+                            <!-- Tarjeta 1 -->
+                            <Border Background="White" CornerRadius="10"
+                                    Padding="15" Margin="0,0,0,15"
+                                    BorderBrush="#D9EDE0" BorderThickness="1">
+                                <StackPanel>
+                                    <TextBlock Text="Medicina General"
+                                               FontWeight="Bold" Foreground="#1DB954"/>
+                                    <TextBlock Text="9 de diciembre de 2024 · Dr. Juan Morales"
+                                               FontSize="12" Foreground="Gray" Margin="0,2"/>
+                                    <TextBlock Text="Diagnóstico:"
+                                               FontWeight="Bold" Margin="0,5,0,0"/>
+                                    <TextBlock Text="Control rutinario preventivo" />
+                                    <Button Content="Ver Detalles"
+                                            HorizontalAlignment="Right"
+                                            Margin="0,10,0,0"
+                                            Foreground="#1DB954"
+                                            BorderBrush="#1DB954"
+                                            BorderThickness="1"
+                                            Padding="5,2"
+                                            Background="Transparent"
+                                            Width="100"
+                                            Click="BtnVerDetalles_Click"/>
+                                </StackPanel>
+                            </Border>
+
+                            <!-- Tarjeta 2 -->
+                            <Border Background="White" CornerRadius="10"
+                                    Padding="15" Margin="0,0,0,15"
+                                    BorderBrush="#D9EDE0" BorderThickness="1">
+                                <StackPanel>
+                                    <TextBlock Text="Oftalmología"
+                                               FontWeight="Bold" Foreground="#1DB954"/>
+                                    <TextBlock Text="24 de noviembre de 2024 · Dra. Laura Vásquez"
+                                               FontSize="12" Foreground="Gray" Margin="0,2"/>
+                                    <TextBlock Text="Diagnóstico:" FontWeight="Bold" Margin="0,5,0,0"/>
+                                    <TextBlock Text="Miopía leve - Prescripción de lentes correctivos"/>
+                                    <Button Content="Ver Detalles"
+                                            HorizontalAlignment="Right"
+                                            Margin="0,10,0,0"
+                                            Foreground="#1DB954"
+                                            BorderBrush="#1DB954"
+                                            BorderThickness="1"
+                                            Padding="5,2"
+                                            Background="Transparent"
+                                            Width="100"
+                                            Click="BtnVerDetalles_Click"/>
+                                </StackPanel>
+                            </Border>
+
+                            <!-- Tarjeta 3 -->
+                            <Border Background="White" CornerRadius="10"
+                                    Padding="15" Margin="0,0,0,15"
+                                    BorderBrush="#D9EDE0" BorderThickness="1">
+                                <StackPanel>
+                                    <TextBlock Text="Cardiología"
+                                               FontWeight="Bold" Foreground="#1DB954"/>
+                                    <TextBlock Text="14 de octubre de 2024 · Dr. Carlos Mendoza"
+                                               FontSize="12" Foreground="Gray" Margin="0,2"/>
+                                    <TextBlock Text="Diagnóstico:" FontWeight="Bold" Margin="0,5,0,0"/>
+                                    <TextBlock Text="Evaluación cardiovascular - Parámetros normales"/>
+                                    <Button Content="Ver Detalles"
+                                            HorizontalAlignment="Right"
+                                            Margin="0,10,0,0"
+                                            Foreground="#1DB954"
+                                            BorderBrush="#1DB954"
+                                            BorderThickness="1"
+                                            Padding="5,2"
+                                            Background="Transparent"
+                                            Width="100"
+                                            Click="BtnVerDetalles_Click"/>
+                                </StackPanel>
+                            </Border>
+
+                        </StackPanel>
+                    </ScrollViewer>
+                </TabItem>
+
+                <!-- Resultados -->
+                <TabItem Header="Resultados de Laboratorio (3)">
+                    <TextBlock Text="Aquí irían los resultados de laboratorio"
+                               Foreground="Gray" Padding="20"/>
+                </TabItem>
+
+                <!-- Recetas -->
+                <TabItem Header="Recetas (2)">
+                    <TextBlock Text="Aquí irían las recetas médicas"
+                               Foreground="Gray" Padding="20"/>
+                </TabItem>
+            </TabControl>
+        </StackPanel>
+    </Grid>
+</Window>
+
+
+
+

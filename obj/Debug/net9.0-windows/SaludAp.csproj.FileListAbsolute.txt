@@ -1,0 +1,117 @@
+C:\Users\MSI\Pictures\Screenshots\saludap\SaludAp\obj\Debug\net9.0-windows\SaludAp.csproj.AssemblyReference.cache
+C:\Users\MSI\Pictures\Screenshots\saludap\SaludAp\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\MSI\Pictures\Screenshots\saludap\SaludAp\obj\Debug\net9.0-windows\App.baml
+C:\Users\MSI\Pictures\Screenshots\saludap\SaludAp\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\MSI\Pictures\Screenshots\saludap\SaludAp\obj\Debug\net9.0-windows\Window2.g.cs
+C:\Users\MSI\Pictures\Screenshots\saludap\SaludAp\obj\Debug\net9.0-windows\Window3.g.cs
+C:\Users\MSI\Pictures\Screenshots\saludap\SaludAp\obj\Debug\net9.0-windows\Window4.g.cs
+C:\Users\MSI\Pictures\Screenshots\saludap\SaludAp\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\MSI\Pictures\Screenshots\saludap\SaludAp\obj\Debug\net9.0-windows\SaludAp_MarkupCompile.cache
+C:\Users\MSI\Pictures\Screenshots\saludap\SaludAp\obj\Debug\net9.0-windows\SaludAp_MarkupCompile.lref
+C:\Users\MSI\Pictures\Screenshots\saludap\SaludAp\bin\Debug\net9.0-windows\SaludAp.exe
+C:\Users\MSI\Pictures\Screenshots\saludap\SaludAp\bin\Debug\net9.0-windows\SaludAp.deps.json
+C:\Users\MSI\Pictures\Screenshots\saludap\SaludAp\bin\Debug\net9.0-windows\SaludAp.runtimeconfig.json
+C:\Users\MSI\Pictures\Screenshots\saludap\SaludAp\bin\Debug\net9.0-windows\SaludAp.dll
+C:\Users\MSI\Pictures\Screenshots\saludap\SaludAp\bin\Debug\net9.0-windows\SaludAp.pdb
+C:\Users\MSI\Pictures\Screenshots\saludap\SaludAp\bin\Debug\net9.0-windows\ControlzEx.dll
+C:\Users\MSI\Pictures\Screenshots\saludap\SaludAp\bin\Debug\net9.0-windows\MahApps.Metro.dll
+C:\Users\MSI\Pictures\Screenshots\saludap\SaludAp\bin\Debug\net9.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\MSI\Pictures\Screenshots\saludap\SaludAp\bin\Debug\net9.0-windows\de\MahApps.Metro.resources.dll
+C:\Users\MSI\Pictures\Screenshots\saludap\SaludAp\obj\Debug\net9.0-windows\Window2.baml
+C:\Users\MSI\Pictures\Screenshots\saludap\SaludAp\obj\Debug\net9.0-windows\Window3.baml
+C:\Users\MSI\Pictures\Screenshots\saludap\SaludAp\obj\Debug\net9.0-windows\Window4.baml
+C:\Users\MSI\Pictures\Screenshots\saludap\SaludAp\obj\Debug\net9.0-windows\SaludAp.g.resources
+C:\Users\MSI\Pictures\Screenshots\saludap\SaludAp\obj\Debug\net9.0-windows\SaludAp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Pictures\Screenshots\saludap\SaludAp\obj\Debug\net9.0-windows\SaludAp.AssemblyInfoInputs.cache
+C:\Users\MSI\Pictures\Screenshots\saludap\SaludAp\obj\Debug\net9.0-windows\SaludAp.AssemblyInfo.cs
+C:\Users\MSI\Pictures\Screenshots\saludap\SaludAp\obj\Debug\net9.0-windows\SaludAp.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Pictures\Screenshots\saludap\SaludAp\obj\Debug\net9.0-windows\SaludAp.sourcelink.json
+C:\Users\MSI\Pictures\Screenshots\saludap\SaludAp\obj\Debug\net9.0-windows\SaludAp.csproj.Up2Date
+C:\Users\MSI\Pictures\Screenshots\saludap\SaludAp\obj\Debug\net9.0-windows\SaludAp.dll
+C:\Users\MSI\Pictures\Screenshots\saludap\SaludAp\obj\Debug\net9.0-windows\refint\SaludAp.dll
+C:\Users\MSI\Pictures\Screenshots\saludap\SaludAp\obj\Debug\net9.0-windows\SaludAp.pdb
+C:\Users\MSI\Pictures\Screenshots\saludap\SaludAp\obj\Debug\net9.0-windows\SaludAp.genruntimeconfig.cache
+C:\Users\MSI\Pictures\Screenshots\saludap\SaludAp\obj\Debug\net9.0-windows\ref\SaludAp.dll
+C:\Users\MSI\Pictures\Screenshots\saludap\SaludAp\obj\Debug\net9.0-windows\Window5.g.cs
+C:\Users\MSI\Pictures\Screenshots\saludap\SaludAp\obj\Debug\net9.0-windows\Window5.baml
+C:\Users\MSI\Pictures\Screenshots\saludap\SaludAp\obj\Debug\net9.0-windows\ReprogramarWindow.baml
+C:\Users\MSI\Pictures\Screenshots\saludap\SaludAp\obj\Debug\net9.0-windows\ReprogramarWindow.g.cs
+C:\Users\Lenovo\Documents\SaludAp[1]\proyecto secreto\bin\Debug\net9.0-windows\SaludAp.exe
+C:\Users\Lenovo\Documents\SaludAp[1]\proyecto secreto\bin\Debug\net9.0-windows\SaludAp.deps.json
+C:\Users\Lenovo\Documents\SaludAp[1]\proyecto secreto\bin\Debug\net9.0-windows\SaludAp.runtimeconfig.json
+C:\Users\Lenovo\Documents\SaludAp[1]\proyecto secreto\bin\Debug\net9.0-windows\SaludAp.dll
+C:\Users\Lenovo\Documents\SaludAp[1]\proyecto secreto\bin\Debug\net9.0-windows\SaludAp.pdb
+C:\Users\Lenovo\Documents\SaludAp[1]\proyecto secreto\bin\Debug\net9.0-windows\ControlzEx.dll
+C:\Users\Lenovo\Documents\SaludAp[1]\proyecto secreto\bin\Debug\net9.0-windows\MahApps.Metro.dll
+C:\Users\Lenovo\Documents\SaludAp[1]\proyecto secreto\bin\Debug\net9.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Lenovo\Documents\SaludAp[1]\proyecto secreto\bin\Debug\net9.0-windows\de\MahApps.Metro.resources.dll
+C:\Users\Lenovo\Documents\SaludAp[1]\proyecto secreto\obj\Debug\net9.0-windows\SaludAp.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\SaludAp[1]\proyecto secreto\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\Lenovo\Documents\SaludAp[1]\proyecto secreto\obj\Debug\net9.0-windows\ReprogramarWindow.baml
+C:\Users\Lenovo\Documents\SaludAp[1]\proyecto secreto\obj\Debug\net9.0-windows\Window5.baml
+C:\Users\Lenovo\Documents\SaludAp[1]\proyecto secreto\obj\Debug\net9.0-windows\App.baml
+C:\Users\Lenovo\Documents\SaludAp[1]\proyecto secreto\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\Lenovo\Documents\SaludAp[1]\proyecto secreto\obj\Debug\net9.0-windows\ReprogramarWindow.g.cs
+C:\Users\Lenovo\Documents\SaludAp[1]\proyecto secreto\obj\Debug\net9.0-windows\Window2.g.cs
+C:\Users\Lenovo\Documents\SaludAp[1]\proyecto secreto\obj\Debug\net9.0-windows\Window3.g.cs
+C:\Users\Lenovo\Documents\SaludAp[1]\proyecto secreto\obj\Debug\net9.0-windows\Window4.g.cs
+C:\Users\Lenovo\Documents\SaludAp[1]\proyecto secreto\obj\Debug\net9.0-windows\Window5.g.cs
+C:\Users\Lenovo\Documents\SaludAp[1]\proyecto secreto\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\Lenovo\Documents\SaludAp[1]\proyecto secreto\obj\Debug\net9.0-windows\SaludAp_MarkupCompile.cache
+C:\Users\Lenovo\Documents\SaludAp[1]\proyecto secreto\obj\Debug\net9.0-windows\SaludAp_MarkupCompile.lref
+C:\Users\Lenovo\Documents\SaludAp[1]\proyecto secreto\obj\Debug\net9.0-windows\Window2.baml
+C:\Users\Lenovo\Documents\SaludAp[1]\proyecto secreto\obj\Debug\net9.0-windows\Window3.baml
+C:\Users\Lenovo\Documents\SaludAp[1]\proyecto secreto\obj\Debug\net9.0-windows\Window4.baml
+C:\Users\Lenovo\Documents\SaludAp[1]\proyecto secreto\obj\Debug\net9.0-windows\SaludAp.g.resources
+C:\Users\Lenovo\Documents\SaludAp[1]\proyecto secreto\obj\Debug\net9.0-windows\SaludAp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\SaludAp[1]\proyecto secreto\obj\Debug\net9.0-windows\SaludAp.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\SaludAp[1]\proyecto secreto\obj\Debug\net9.0-windows\SaludAp.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\SaludAp[1]\proyecto secreto\obj\Debug\net9.0-windows\SaludAp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\SaludAp[1]\proyecto secreto\obj\Debug\net9.0-windows\SaludAp.csproj.Up2Date
+C:\Users\Lenovo\Documents\SaludAp[1]\proyecto secreto\obj\Debug\net9.0-windows\SaludAp.dll
+C:\Users\Lenovo\Documents\SaludAp[1]\proyecto secreto\obj\Debug\net9.0-windows\refint\SaludAp.dll
+C:\Users\Lenovo\Documents\SaludAp[1]\proyecto secreto\obj\Debug\net9.0-windows\SaludAp.pdb
+C:\Users\Lenovo\Documents\SaludAp[1]\proyecto secreto\obj\Debug\net9.0-windows\SaludAp.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\SaludAp[1]\proyecto secreto\obj\Debug\net9.0-windows\ref\SaludAp.dll
+C:\Users\MSI\Downloads\Sistemasaludd\bin\Debug\net9.0-windows\SaludAp.exe
+C:\Users\MSI\Downloads\Sistemasaludd\bin\Debug\net9.0-windows\SaludAp.deps.json
+C:\Users\MSI\Downloads\Sistemasaludd\bin\Debug\net9.0-windows\SaludAp.runtimeconfig.json
+C:\Users\MSI\Downloads\Sistemasaludd\bin\Debug\net9.0-windows\SaludAp.dll
+C:\Users\MSI\Downloads\Sistemasaludd\bin\Debug\net9.0-windows\SaludAp.pdb
+C:\Users\MSI\Downloads\Sistemasaludd\bin\Debug\net9.0-windows\ControlzEx.dll
+C:\Users\MSI\Downloads\Sistemasaludd\bin\Debug\net9.0-windows\MahApps.Metro.dll
+C:\Users\MSI\Downloads\Sistemasaludd\bin\Debug\net9.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\MSI\Downloads\Sistemasaludd\bin\Debug\net9.0-windows\de\MahApps.Metro.resources.dll
+C:\Users\MSI\Downloads\Sistemasaludd\obj\Debug\net9.0-windows\SaludAp.csproj.AssemblyReference.cache
+C:\Users\MSI\Downloads\Sistemasaludd\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\MSI\Downloads\Sistemasaludd\obj\Debug\net9.0-windows\ReprogramarWindow.baml
+C:\Users\MSI\Downloads\Sistemasaludd\obj\Debug\net9.0-windows\Window5.baml
+C:\Users\MSI\Downloads\Sistemasaludd\obj\Debug\net9.0-windows\App.baml
+C:\Users\MSI\Downloads\Sistemasaludd\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\MSI\Downloads\Sistemasaludd\obj\Debug\net9.0-windows\ReprogramarWindow.g.cs
+C:\Users\MSI\Downloads\Sistemasaludd\obj\Debug\net9.0-windows\Window2.g.cs
+C:\Users\MSI\Downloads\Sistemasaludd\obj\Debug\net9.0-windows\Window3.g.cs
+C:\Users\MSI\Downloads\Sistemasaludd\obj\Debug\net9.0-windows\Window4.g.cs
+C:\Users\MSI\Downloads\Sistemasaludd\obj\Debug\net9.0-windows\Window5.g.cs
+C:\Users\MSI\Downloads\Sistemasaludd\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\MSI\Downloads\Sistemasaludd\obj\Debug\net9.0-windows\SaludAp_MarkupCompile.cache
+C:\Users\MSI\Downloads\Sistemasaludd\obj\Debug\net9.0-windows\SaludAp_MarkupCompile.lref
+C:\Users\MSI\Downloads\Sistemasaludd\obj\Debug\net9.0-windows\Window2.baml
+C:\Users\MSI\Downloads\Sistemasaludd\obj\Debug\net9.0-windows\Window3.baml
+C:\Users\MSI\Downloads\Sistemasaludd\obj\Debug\net9.0-windows\Window4.baml
+C:\Users\MSI\Downloads\Sistemasaludd\obj\Debug\net9.0-windows\SaludAp.g.resources
+C:\Users\MSI\Downloads\Sistemasaludd\obj\Debug\net9.0-windows\SaludAp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Downloads\Sistemasaludd\obj\Debug\net9.0-windows\SaludAp.AssemblyInfoInputs.cache
+C:\Users\MSI\Downloads\Sistemasaludd\obj\Debug\net9.0-windows\SaludAp.AssemblyInfo.cs
+C:\Users\MSI\Downloads\Sistemasaludd\obj\Debug\net9.0-windows\SaludAp.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Downloads\Sistemasaludd\obj\Debug\net9.0-windows\SaludAp.sourcelink.json
+C:\Users\MSI\Downloads\Sistemasaludd\obj\Debug\net9.0-windows\SaludAp.csproj.Up2Date
+C:\Users\MSI\Downloads\Sistemasaludd\obj\Debug\net9.0-windows\SaludAp.dll
+C:\Users\MSI\Downloads\Sistemasaludd\obj\Debug\net9.0-windows\refint\SaludAp.dll
+C:\Users\MSI\Downloads\Sistemasaludd\obj\Debug\net9.0-windows\SaludAp.pdb
+C:\Users\MSI\Downloads\Sistemasaludd\obj\Debug\net9.0-windows\SaludAp.genruntimeconfig.cache
+C:\Users\MSI\Downloads\Sistemasaludd\obj\Debug\net9.0-windows\ref\SaludAp.dll
+C:\Users\MSI\Downloads\Sistemasaludd\obj\Debug\net9.0-windows\Window6.g.cs
+C:\Users\MSI\Downloads\Sistemasaludd\obj\Debug\net9.0-windows\Window6.baml
+C:\Users\MSI\Downloads\Sistemasaludd\obj\Debug\net9.0-windows\InicioWindow.g.cs
+C:\Users\MSI\Downloads\Sistemasaludd\obj\Debug\net9.0-windows\InicioWindow.baml

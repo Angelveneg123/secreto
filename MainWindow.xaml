@@ -1,0 +1,81 @@
+﻿<metro:MetroWindow x:Class="SaludAp.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:metro="http://metro.mahapps.com/winfx/xaml/controls"
+    Title="MainWindow" Height="450" Width="507">
+
+    <Grid Background="#FFE4FFF8">
+
+        <!-- Panel principal -->
+        <Border BorderBrush="White" BorderThickness="2" CornerRadius="15" 
+                HorizontalAlignment="Left" Height="282" Margin="126,52,0,0" 
+                VerticalAlignment="Top" Width="247" Background="White">
+            <Border.Effect>
+                <DropShadowEffect Color="#80000000" BlurRadius="12" ShadowDepth="4" Opacity="0.3"/>
+            </Border.Effect>
+            <Label Content="Accede a tu cuenta de paciente" 
+                   Margin="18,23,-2,209" FontSize="14"/>
+        </Border>
+
+        <!-- Título -->
+        <Label Content="Iniciar Sesion" 
+               HorizontalAlignment="Left" Margin="204,52,0,0" 
+               VerticalAlignment="Top" Width="108" 
+               Foreground="#FF248721" FontSize="16"/>
+
+        <!-- Correo -->
+        <Label Content="Correo Electronico" 
+               HorizontalAlignment="Left" Margin="161,115,0,0" 
+               VerticalAlignment="Top" FontSize="14"/>
+        <TextBox x:Name="txtcorreo" 
+                 HorizontalAlignment="Left" Margin="161,141,0,0" 
+                 TextWrapping="Wrap" VerticalAlignment="Top" Width="151" 
+                 BorderBrush="#FF72A862" TextChanged="txtcorreo_TextChanged"/>
+
+        <!-- Contraseña -->
+        <Label Content="Contraseña" 
+               HorizontalAlignment="Left" Margin="161,172,0,0" 
+               VerticalAlignment="Top" FontSize="14"/>
+        <PasswordBox x:Name="txtcontraseña" 
+                     HorizontalAlignment="Left" Margin="161,198,0,0" 
+                     VerticalAlignment="Top" Width="151" 
+                     BorderBrush="#FF72A862"/>
+
+        <!-- Botón -->
+        <Button x:Name="btniniciarsesion" Content="Iniciar Sesion" 
+                HorizontalAlignment="Left" Margin="195,254,0,0" 
+                VerticalAlignment="Top" Width="103" 
+                Click="Button_Click" FontSize="11" 
+                Background="#FF49AE5D" Foreground="White"/>
+
+        <!-- Olvidaste contraseña -->
+        <Label Content="Olvidaste tu Contraseña" 
+               HorizontalAlignment="Left" Margin="171,286,0,0" 
+               VerticalAlignment="Top" FontSize="14"/>
+
+        <!-- Sección de traducción estilo Google -->
+        <StackPanel Orientation="Horizontal" 
+                    HorizontalAlignment="Right" Margin="0,10,20,0" 
+                    VerticalAlignment="Top" Height="30">
+            <ComboBox x:Name="cmbOrigenLogin" Width="100" SelectedIndex="0">
+                <ComboBoxItem Content="Español"/>
+                <ComboBoxItem Content="Miskito"/>
+            </ComboBox>
+
+            <Label Content=" → " VerticalAlignment="Center" FontSize="16" Margin="5,0"/>
+
+            <ComboBox x:Name="cmbDestinoLogin" Width="100" SelectedIndex="1">
+                <ComboBoxItem Content="Miskito"/>
+                <ComboBoxItem Content="Español"/>
+            </ComboBox>
+
+            <Button x:Name="BtnTraducirLogin" Content="🌐 Traducir" 
+                    Width="100" Height="30" Margin="10,0,0,0"
+                    Background="#FF49AE5D" Foreground="White"
+                    FontFamily="Bahnschrift SemiLight"
+                    Click="BtnTraducirLogin_Click"/>
+        </StackPanel>
+
+    </Grid>
+</metro:MetroWindow>
+
